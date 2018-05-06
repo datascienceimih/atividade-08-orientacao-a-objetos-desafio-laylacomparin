@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun May  6 15:05:18 2018
+CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX
+PROGRAMAÇÃO FUNCIONAL ORIENTADA A OBJETOS - PYTHON
+Projeto Integrador - Exercício 08 - DESAFIO
+por Layla Comparin
+"""
 
-@author: Administrator
-"""
 from crianca import Crianca
 from crianca import Pegador
 
