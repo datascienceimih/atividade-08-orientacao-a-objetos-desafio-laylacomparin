@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun May  6 15:02:07 2018
-
-@author: Administrator
+CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX
+PROGRAMAÇÃO FUNCIONAL ORIENTADA A OBJETOS - PYTHON
+Projeto Integrador - Exercício 08 - DESAFIO
+por Layla Comparin
 """
 
 class Crianca:
